@@ -1,0 +1,294 @@
+@media screen and (max-width: 1199px) {
+  h1.page-title {
+    font-size: 54px;
+  }
+
+  h3.page-subtitle {
+    font-size: 34px;
+  }
+
+  h2.page-title {
+    font-size: 34px;
+  }
+
+  h4.page-subtitle {
+    font-size: 28px;
+  }
+
+  .fixed-side-menu {
+    right: 10px;
+  }
+
+  .section-inner-left {
+    display: none;
+  }
+
+  .fixed-side-menu:before,
+  .fixed-side-menu:after,
+  .number-item-container:not(:first-child) .number-title:after,
+  .slider-catalog-heading:before,
+  .slider-catalog-heading:after {
+    content: none;
+  }
+
+  .number-title {
+    font-size: 48px;
+  }
+
+  .section-screen {
+    overflow: hidden;
+  }
+
+  .logo-item {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .pos-abs-img {
+    bottom: -60px;
+  }
+
+  .show-more {
+    padding: 12px 15px;
+  }
+
+  button.slick-arrow {
+    padding: 15px;
+  }
+
+  .green-submit-c:before,
+  .green-submit-c:after {
+    width: 15px;
+  }
+
+  .form-wrapper-rs .green-submit-c:before {
+    left: 0;
+  }
+
+  .form-wrapper-rs .green-submit-c:after {
+    right: 0;
+  }
+
+  .catalog-info-list {
+    font-size: 12px;
+  }
+
+  .catalog-info-list dt {
+    width: 100px;
+  }
+
+  .catalog-item-info .catalog-item-name {
+    font-size: 18px;
+  }
+
+  .form-wrapper-bp h5.form-title {
+    font-size: 20px;
+  }
+
+  .form-wrapper-bp .form-heading:before,
+  .form-wrapper-bp .form-heading:after {
+    width: 85px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .header-menu {
+    margin-left: 0;
+  }
+
+  h1.page-title {
+    font-size: 46px;
+  }
+
+  h3.page-subtitle {
+    font-size: 28px;
+  }
+
+  h2.page-title {
+    font-size: 28px;
+  }
+
+  h4.page-subtitle {
+    font-size: 22px;
+  }
+
+  .number-title {
+    font-size: 36px;
+  }
+
+  .number-descr {
+    font-size: 12px;
+  }
+
+  .input-container {
+    text-align: center;
+  }
+
+  .input-container input[type=submit] {
+    max-width: 463px;
+  }
+
+  .form-wrapper-bp .green-submit-c:before,
+  .form-wrapper-bp .green-submit-c:after {
+    content: none;
+  }
+
+  .slick-initialized .slick-slide {
+    margin: 2px;
+    -webkit-box-shadow: 0 0 3px 0 #292e34;
+    box-shadow: 0 0 3px 0 #292e34;
+  }
+
+  .pos-abs-img {
+    display: none;
+  }
+
+  .partners-logo-container {
+    padding-right: 0;
+    justify-content: center;
+  }
+
+  .blog-item {
+    margin-bottom: 15px;
+  }
+
+  .footer-col,
+  .footer-col:last-child {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .site-logo img {
+    max-width: 80px;
+  }
+
+  .footer-col:nth-child(2) {
+    -webkit-order: -1;
+    -moz-order: -1;
+    -ms-order: -1;
+    -o-order: -1;
+    order: -1;
+  }
+
+  .social-info {
+    bottom: 10px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .scroll-header {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: rgba(41, 46, 52, 0.5);
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+  .site-footer {
+    position: static;
+    padding-bottom: 50px;
+    background-color: #292e34;
+  }
+
+  .section-inner-top {
+    border-bottom: none;
+  }
+
+  .bottom-left-line,
+  .bottom-right-line {
+    display: none;
+    background-color: transparent;
+  }
+
+  .number-item-container {
+    width: 50%;
+    margin-bottom: 15px;
+  }
+
+  .section-screen {
+    overflow: auto;
+  }
+}
+
+@media screen and (max-width: 575px) {
+
+  /*.number-item-container {
+		width: 100px;
+	}*/
+  h1.page-title {
+    font-size: 36px;
+  }
+
+  h3.page-subtitle {
+    font-size: 24px;
+  }
+
+  h2.page-title {
+    font-size: 28px;
+  }
+
+  h4.page-subtitle {
+    font-size: 22px;
+  }
+
+  .number-title {
+    font-size: 26px;
+  }
+
+  .slider-post-heading h6 {
+    font-size: 16px;
+  }
+
+  .number-descr {
+    font-size: 12px;
+  }
+
+  .header-fixed a {
+    font-size: 12px;
+  }
+
+  .scroll-header {
+    background-color: rgba(41, 46, 52, 0.7);
+  }
+
+  .header-top-lc {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .header-top-rc {
+    width: 100%;
+  }
+
+  .header-cart {
+    width: 60%;
+  }
+
+  .header-menu {
+    width: 40%;
+    text-align: right;
+  }
+
+  .input-container .icon {
+    display: none;
+  }
+
+  .input-container input {
+    padding: 15px 10px;
+    font-size: 14px;
+  }
+
+  .form-wrapper-bp,
+  .form-wrapper-rs,
+  .wrapper-blog,
+  .wrapper-partners-logo,
+  .hero-published {
+    padding: 15px;
+  }
+
+  .col-auto {
+    max-width: 100%;
+  }
+}

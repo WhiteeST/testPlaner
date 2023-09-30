@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve">
+<g>
+	<g id="XMLID_1_">
+		<g>
+			<path style="fill:#2F0A35;" d="M496,192v304H272v-80H112V304H48H0V68.7L68.7,0H224v80h160v112h64H496z M480,480V208H352v64h-64
+				v208H480z M368,192V96H224v208h-96v96h144V260.7l68.7-68.7H368z M336,256v-36.7L299.3,256H336z M208,288V16H80v64H16v208H208z
+				 M64,64V27.3L27.3,64H64z"/>
+			<path style="fill:#E65E5C;" d="M456,96.7c22.7,3.8,40,23.6,40,47.3c0,26.5-21.5,48-48,48s-48-21.5-48-48
+				c0-23.8,17.3-43.5,40-47.3v16.5c-13.8,3.6-24,16-24,30.9c0,17.6,14.4,32,32,32s32-14.4,32-32c0-14.9-10.2-27.3-24-30.9V96.7z"/>
+			<path style="fill:#2F0A35;" d="M456,113.1c13.8,3.6,24,16,24,30.9c0,17.6-14.4,32-32,32s-32-14.4-32-32c0-14.9,10.2-27.3,24-30.9
+				V96.7c2.6-0.4,5.3-0.7,8-0.7s5.4,0.2,8,0.7V113.1z M464,144c0-8.8-7.2-16-16-16s-16,7.2-16,16s7.2,16,16,16S464,152.8,464,144z"
+				/>
+			<rect x="448" y="448" style="fill:#2F0A35;" width="16" height="16"/>
+			<rect x="304" y="416" style="fill:#2F0A35;" width="160" height="16"/>
+			<rect x="304" y="384" style="fill:#2F0A35;" width="160" height="16"/>
+			<rect x="304" y="352" style="fill:#2F0A35;" width="160" height="16"/>
+			<rect x="336" y="320" style="fill:#2F0A35;" width="128" height="16"/>
+			<rect x="368" y="224" style="fill:#E65E5C;" width="96" height="80"/>
+			<path style="fill:#E65E5C;" d="M448,128c8.8,0,16,7.2,16,16s-7.2,16-16,16s-16-7.2-16-16S439.2,128,448,128z"/>
+			<path style="fill:#2F0A35;" d="M456,88v8.7c-2.6-0.4-5.3-0.7-8-0.7s-5.4,0.2-8,0.7V88c0-22.1-17.9-40-40-40H240V32h160
+				C430.9,32,456,57.1,456,88z"/>
+			<rect x="304" y="448" style="fill:#2F0A35;" width="128" height="16"/>
+			<rect x="304" y="320" style="fill:#2F0A35;" width="16" height="16"/>
+			<path style="fill:#2F0A35;" d="M256,448v16H96c-30.9,0-56-25.1-56-56v-8.7c2.6,0.4,5.3,0.7,8,0.7s5.4-0.2,8-0.7v8.7
+				c0,22.1,17.9,40,40,40H256z"/>
+			<rect x="32" y="192" style="fill:#E65E5C;" width="160" height="80"/>
+			<rect x="176" y="160" style="fill:#2F0A35;" width="16" height="16"/>
+			<rect x="32" y="128" style="fill:#2F0A35;" width="160" height="16"/>
+			<rect x="32" y="96" style="fill:#2F0A35;" width="160" height="16"/>
+			<rect x="96" y="64" style="fill:#2F0A35;" width="96" height="16"/>
+			<rect x="128" y="32" style="fill:#2F0A35;" width="64" height="16"/>
+			<rect x="32" y="160" style="fill:#2F0A35;" width="128" height="16"/>
+			<rect x="96" y="32" style="fill:#2F0A35;" width="16" height="16"/>
+			<path style="fill:#E65E5C;" d="M48,304c26.5,0,48,21.5,48,48c0,23.8-17.3,43.5-40,47.3v-16.5c13.8-3.6,24-16,24-30.9
+				c0-17.6-14.3-32-32-32s-32,14.4-32,32c0,14.9,10.2,27.3,24,30.9v16.5C17.3,395.5,0,375.8,0,352C0,325.5,21.5,304,48,304z"/>
+			<path style="fill:#2F0A35;" d="M80,352c0,14.9-10.2,27.3-24,30.9v16.5c-2.6,0.4-5.3,0.7-8,0.7s-5.4-0.2-8-0.7v-16.5
+				c-13.8-3.6-24-16-24-30.9c0-17.6,14.4-32,32-32S80,334.4,80,352z M64,352c0-8.8-7.2-16-16-16s-16,7.2-16,16s7.2,16,16,16
+				S64,360.8,64,352z"/>
+			<path style="fill:#E65E5C;" d="M48,336c8.8,0,16,7.2,16,16s-7.2,16-16,16s-16-7.2-16-16S39.2,336,48,336z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+</g>
+</svg>
